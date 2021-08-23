@@ -1,4 +1,4 @@
-# Faça um script que leia um número e mostre o seu dobro, seu triplo e a sua raiz quadrada.
+#Faça um script que leia um número e mostre o seu dobro, seu triplo e a sua raiz quadrada.
 n = int(input('Digite um número:'))
 dobro = n*2
 triplo = n*3

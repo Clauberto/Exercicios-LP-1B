@@ -1,4 +1,4 @@
-# Faça um programa que leia algo pelo teclado e mostre na tela seu tipo de dado e todas as informações sobre ele.
+#Faça um programa que leia algo pelo teclado e mostre na tela seu tipo de dado e todas as informações sobre ele.
 algumacoisa = input('Digite alguma coisa:')
 print("É um valor numérico? ",algumacoisa.isnumeric()) #verifica se é numérico
 print("É uma letra?", algumacoisa.isalpha()) #verifica se é letra
