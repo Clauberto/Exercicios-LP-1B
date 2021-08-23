@@ -1,0 +1,3 @@
+# Faça um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+metros = float(input("Digite um valor em metros:"))
+print("O valor em centímetros é {}cm \nO valor milímetros {}mm".format((metros*100),(metros*1000)))
