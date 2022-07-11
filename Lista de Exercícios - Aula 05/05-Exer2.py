@@ -1,0 +1,13 @@
+num1 = int(input("Insira o primeiro número:"))
+num2 = int(input("Insira o segundo número:"))
+num3 = int(input("Insira o terceiro número:"))
+num4 = int(input("Insira o quarto número:"))
+num5 = int(input("Insira o quinto número:"))
+num6 = int(input("Insira o sexto número:"))
+num7 = int(input("Insira o sétimo número:"))
+num8 = int(input("Insira o oitavo número:"))
+num9 = int(input("Insira o nono número:"))
+num10 = int(input("Insira o décimo número:"))
+lista = [num1,num2,num3,num4,num5,num6,num7,num8,num9,num10]
+lista.reverse()
+print(lista)
